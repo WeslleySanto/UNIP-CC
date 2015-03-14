@@ -1,0 +1,11 @@
+1.INTRODUÇÃO
+O  D3js é uma biblioteca do javaScript que facilita a visualização dos dados, devido a massa de dados ser muito grande, hoje em dia é uma ferramenta para mostrar de forma simples em gráficos os dados em forma clara para sua compreensão.
+Um dos desafios de hoje em dia é que são gerados grande massa de dados diariamente, e o grande problema é como tratar toda essa massa de dados, para obter uma compreensão mais simples  de toda essa  massa de dados.
+O que levou a pesquisar sobre isso foi com tanta informação, como devemos facilitar, usando uma ferramenta para tratar esses dados?. O volume de  dados são gerados em grande escala e precisamos utilizar uma ferramenta que resolva o problema de visualizar os dados.
+As razões pela pesquisa é pelo fato de grande importância para área de TI, pois contribui para área de tecnologia o conhecimento é popularizar o d3js  que é uma ferramenta nova que veio para facilitar a grande massa de dados, e que facilite a vida dos profissionais e de empresas para controlar o volume de dados, e contribui também para área de Ciência da Computação a avançar no conhecimento e proliferar o conhecimento  para todas os profissionais na área.
+A pesquisa contribui para o conhecimento para a formação que ajudará a estar mais preparado para o mercado de trabalho, que hoje a tecnologia sempre evolui,e surgem tecnologias novas, que é justamente para facilitar as necessidades que a área de TI precisa.
+O objetivo da pesquisa é como tratar o grande volume de dados gerados atualmente e mostrar de forma simples como gráficos para fácil compreensão dos dados.
+Apresentar  a visualização da grande massa de dados utilizando a ferramenta d3js para manipulação dos dados, pois é um problema hoje em dia visualizar a grande massa de dados, pois capturar os dados é um procedimento mais fácil.
+A proposta é utlizar a ferramenta d3js para  solucionar o problema do grande volume de dados para ser utlilizado para mostrar os dados de forma visual clara para o fácil entendimento em alguma aplicação.
+
+

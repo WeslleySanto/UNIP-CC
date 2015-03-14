@@ -1,0 +1,69 @@
+Separador as partes:
+
+Introdução
+
+
+Tema:  
+
+   Hoje, com o avanço e dependência da tecnologia, o homem trata, manipula, guarda, a coisa mais importante que permite que haja toda essa evolução, a informação (dados).
+   Acumulou-se muita informação, principalmente ao longo dos últimos anos, e o homem teve que se adaptar da maneira essa grande massa de dados, e para isso, vem desenvolvendo novas tecnologias para poder ter uma melhor manipulação.
+   O trabalho terá foco em algumas dessas tecnologias, no caso, apresentaremos o D3Js ( Data-Driven Documents), junto dele, conceitos de base de dados e que vem crescendo, se desenvolvendo muito, o Big Data.
+
+
+Problema: 
+
+   No início da era da computação, programas que armazenavam e manipulavam dados gravavam  estes dados, em disco, usando estruturas próprias, cada um de uma forma, sem padrão definido.
+Programas que não conhecessem a estrutura dos dados não podiam utilizá-los. Se algum programa precisasse realizar alguma mudança na estrutura de dados todos os outros programas que acessassem esse mesmo arquivo tinham que ser alterados, mesmo que a alteração ocorresse em dados não manipulados por estes programas.
+Isso gerava o problema de garantir a unicidade das estruturas de dados entre os diversos programas devido à existência de redundâncias.
+Para evitar esse problema, usou-se um sistema intermediário que conhecia a estrutura de dados do arquivo e fornecia apenas dados que cada programa precisava, armazenando adequadamente os dados de cada programa.
+Com o tempo, esse sistema intermediário passou a gerenciar vários arquivos. A essa coleção de arquivos foi dado o nome de Banco de Dados e em conjunto com o sistema intermediário recebeu o nome de Sistema Gerenciador de Banco de Dados (SGBD).
+O primeiro SGBD comercial surgiu em 1960.
+Com o tempo, surgiram padrões para descrever as estruturas de dados: os modelos de dados.
+   Agora, com a evolução da tecnologia nos anos,  veio aumentando consideravelmente a quantidade (massa) de dados, e com isso, a dificuldade em armazenar, manipular e guarda-los esses dados em segurança a ponto dos modelos de dados não darem conta. 
+   Para se ter uma idéia da grande massa gerados nos dias de hoje, atualmente em um único dia criamos mais dados do que em um ano todo em meados dos anos 2000.
+   Empresas de TI, estudos científicos, informações acadêmicas, simplesmente tudo que envolve a tecnologia, gera informação, o problema encontrado hoje, têm se ser em como tratar da melhor maneira possível tanto dado gerado. O homem se tornou refém da informação.
+   E agora, como lidar com isso tudo?!
+
+
+
+Justificativa
+
+   O D3Js (Data-Driven Documents), baseado em JavaScript, é uma tecnologia desenvolvida em 2012, é um excelente manipulador de documentos com base de dados, trazendo esses dados a tona usando como padrões HTML, SVG e CSS. Além disso, o D3Js é extremamente rápido, conseguindo suportar grandes conjunções de dados e comportamentos dinâmicos de interação e animação.
+Objetivo
+Nosso objetivo será para mostrar o quanto essa ferramenta pode ser útil para manipular e visualizar dados, para um melhor compreendimento, já que hoje é fundamental saber fazer uma ótima análise para se progredir, seja pra qual segmento for, auxialiará muito o Big Data, já que o mesmo guarda grande volume de dados, mas estes dados não conseguem ser explorados de maneira eficaz.
+Hipótese
+Usando HTML, SVG e CSS, você pode aplicar transformações a qualquer documento, podendo gerar grandes gráficos para uma melhor compreensão do dado.
+   
+
+
+Objetivo
+Nosso objetivo será para mostrar o quanto essa ferramenta pode ser útil para manipular e visualizar dados, para um melhor compreendimento, já que hoje é fundamental saber fazer uma ótima análise para se progredir, seja pra qual segmento for, auxialiará muito o Big Data, já que o mesmo guarda grande volume de dados, mas estes dados não conseguem ser explorados de maneira eficaz.
+
+
+Hipótese
+
+Usando HTML, SVG e CSS, você pode aplicar transformações a qualquer documento, podendo gerar grandes gráficos para uma melhor compreensão do dado.
+
+Introdução sem cortes:
+
+   Hoje, com o avanço e dependência da tecnologia, o homem trata, manipula, guarda, a coisa mais importante que permite que haja toda essa evolução, a informação (dados).
+   Acumulou-se muita informação, principalmente ao longo dos últimos anos, e o homem teve que se adaptar da maneira essa grande massa de dados, e para isso, vem desenvolvendo novas tecnologias para poder ter uma melhor manipulação.
+   O trabalho terá foco em algumas dessas tecnologias, no caso, apresentaremos o D3Js ( Data-Driven Documents), junto dele, conceitos de base de dados e que vem crescendo, se desenvolvendo muito, o Big Data.
+   No início da era da computação, programas que armazenavam e manipulavam dados gravavam  estes dados, em disco, usando estruturas próprias, cada um de uma forma, sem padrão definido.
+Programas que não conhecessem a estrutura dos dados não podiam utilizá-los. Se algum programa precisasse realizar alguma mudança na estrutura de dados todos os outros programas que acessassem esse mesmo arquivo tinham que ser alterados, mesmo que a alteração ocorresse em dados não manipulados por estes programas.
+Isso gerava o problema de garantir a unicidade das estruturas de dados entre os diversos programas devido à existência de redundâncias.
+Para evitar esse problema, usou-se um sistema intermediário que conhecia a estrutura de dados do arquivo e fornecia apenas dados que cada programa precisava, armazenando adequadamente os dados de cada programa.
+Com o tempo, esse sistema intermediário passou a gerenciar vários arquivos. A essa coleção de arquivos foi dado o nome de Banco de Dados e em conjunto com o sistema intermediário recebeu o nome de Sistema Gerenciador de Banco de Dados (SGBD).
+O primeiro SGBD comercial surgiu em 1960.
+Com o tempo, surgiram padrões para descrever as estruturas de dados: os modelos de dados.
+   Agora, com a evolução da tecnologia nos anos,  veio aumentando consideravelmente a quantidade (massa) de dados, e com isso, a dificuldade em armazenar, manipular e guarda-los esses dados em segurança a ponto dos modelos de dados não darem conta. 
+   Para se ter uma idéia da grande massa gerados nos dias de hoje, atualmente em um único dia criamos mais dados do que em um ano todo em meados dos anos 2000.
+   Empresas de TI, estudos científicos, informações acadêmicas, simplesmente tudo que envolve a tecnologia, gera informação, o problema encontrado hoje, têm se ser em como tratar da melhor maneira possível tanto dado gerado. O homem se tornou refém da informação.
+   E agora, como lidar com isso tudo?!
+   O D3Js (Data-Driven Documents), baseado em JavaScript, é uma tecnologia desenvolvida em 2012, é um excelente manipulador de documentos com base de dados, trazendo esses dados a tona usando como padrões HTML, SVG e CSS. Além disso, o D3Js é extremamente rápido, conseguindo suportar grandes conjunções de dados e comportamentos dinâmicos de interação e animação.
+   Nosso objetivo será para mostrar o quanto essa ferramenta pode ser útil para manipular e visualizar dados, para um melhor compreendimento, já que hoje é fundamental saber fazer uma ótima análise para se progredir, seja pra qual segmento for, auxialiará muito o Big Data, já que o mesmo guarda grande volume de dados, mas estes dados não conseguem ser explorados de maneira eficaz.
+   Usando HTML, SVG e CSS, você pode aplicar transformações a qualquer documento, podendo gerar grandes gráficos para uma melhor compreensão do dado.
+
+
+
+
