@@ -1,0 +1,126 @@
+﻿EXE-MET- APF-01 : Sistema Controlador de ALARME
+
+DIAGRAMA DE CONTEXTO
+
+Itens
+Peso – Complexidade (sistema)
+
+Baixa simples
+Media
+Complexo Alta
+Parcial
+Discriminação
+A
+Saidas Externas
+5
+4
+7
+4
+Sistema de controle
+Aviso
+Rel. Alarmes
+Status do sistema
+B
+Consultas Externas
+3
+4
+6
+1
+Verificação
+
+c
+Entradas Externas
+3
+4
+6
+2
+Sinal de temperatura
+Sinal de volume
+D
+Interface Externas
+5
+7
+10
+1
+Arq. Controle
+E
+Arquivos Lógicos
+Internos
+7
+10
+15
+1
+Arq. Armazenamento
+
+Calculo do CNF(CONTAGEM NÃO AJUSTADA)
+CNF(B) = A.5 + B.3 + C.3 + D.5 + E.7 => 4.5 + 1.3 + 2.3 + 1.5 + 1.7 = 41
+CNF(M) = A.4 + B.4 + C.4 + D.7 + E.10 => 4.4 + 1.4 + 2.4 + 1.7 + 1.10 = 45
+CNF(A) = A.7 + B.6 + C.6 + D.10 + E.15 => 4.7 + 1.6 + 2.6 + 1.10 + 1.15 = 71
+
+FATORES (CRITERIOS) SUBJETIVOS
+
+ITENS QUE DEVEM SER CONSIDERADOS NO FATOR DE INFLUÊNCIA (Fi)
+
+ITEM
+DESCRIÇÃO
+1
+O sistema requer backup e recuperação confiáveis?
+2
+São exigidas comunicações de dados?
+3
+Há funções de processamento distribuídas?
+4
+O desempenho é crítico?
+5
+O sistema funcionará num ambiente operacional existente, intensivamente
+utilizado?
+6
+O sistema requer entrada de dados on-line?
+7
+A entrada de dados on-line exige que a transação de entrada seja elaborada
+em múltiplas telas ou operações?
+8
+Os arquivos-mestres são atualizados on-line?
+9
+A entrada, saída, arquivos ou consultas são complexos?
+10
+O processo interno é complexo?
+11
+O código foi projetado de forma a ser reusável?
+12
+A conversão e a instalação estão incluídas no projeto?
+13
+O sistema é projetado para múltiplas instalações em diferentes
+organizações?
+14
+A aplicação é projetada de forma a facilitar mudanças e o uso pelo usuário ?
+
+Escala do FATOR DE INFLUÊNCIA
+Irrelevante 
+Incidental
+Moderado
+Médio
+Significativo
+Essencial
+0
+1
+2
+3
+4
+5
+
+
+
+Calculo do FCT
+
+
+EXE-MET- APF-01 : Sistema Controlador de ALARME
+
+1
+Esforço = 1xhs / PF = 10 x 18,7 = 187 horas
+
+2.
+Prazo = 187 h / ( 4 x 6 ) = 7,8 dias = 8 dias
+
+3.
+Custo = 187 h x R$ 25,00 = R$ 4.675,00
