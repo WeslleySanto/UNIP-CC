@@ -1,0 +1,322 @@
+1. Introdução à JavaScript
+Neste capítulo, será apresentada a linguagem Java Script, relatando-se suas origens, finalidades e distinção.  Será feito um breve histórico de sua evolução, esclarecendo alguns conceitos com as boas práticas de programação para web. Com finalidade de criar uma base de estudos para os tópicos e capítulos que seguem, serão apresentados os métodos funções, operadores, os tipos de dados. Estudaremos ainda, os conceitos básicos de objetos da linguagem Java Script e será aprofundado os estudos de variáveis. Ao final do estudo deste capítulo, o leitor terá uma sólida visão dos princípios e da ideologia de programação JavaScript em conformidade com os Padrões Web.
+1.1 Conceitos básicos do Java Script
+O Java Script surgiu com o nome de LiveScript, uma linguagem de criação de scripts elaborada especificamente para o Netscape Navigator. A Netscape em conjunto com a Sun Microsystems, mudou o nome para Java Script, com a finalidade de fornecer um meio de adicionar interatividade a uma página web.
+A primeira versão, denominada JavaScript 1.0, foi lançada em 1995 e implementada em março de 1996 no navegador Netscape Navigator 2.0, quando o mercado era dominado pela Netscape.
+Logo a seguir, veio à época da chamada guerra dos browsers, cujos efeitos nocivos se fazem sentir até os dias atuais. Para não fugir á regra, a Microsoft, em resposta à Netscape, criou a linguagem JScript 1.0 foi lançada com o navegador Internet Explorer 3.0. 
+Não há como fazer funcionar um formulário HTML com o uso de elementos HTML. A HTML limita-se a criar os rótulos e campos de um formulário para serem preenchidos pelo usuário e nada mais. Com HTML, não conseguimos processar os dados nem mesmo enviá-los ao servidor ou a outra máquina qualquer. Para cumprir essas tarefas, é necessário utilizar um programa que consiga manipular e processar os dados. Entre várias linguagens de programação destinadas a adicionar e processar dados em páginas web, destacam-se PHP, ASP, Java, Ruby, Phyton e Cold Fusion, entre outras.
+As linguagens de programação como as citas anteriormente foram desenvolvidas para rodar no lado do servidor, isto é, dependem de uma máquina remota onde estão hospedadas as funcionalidades capazes de interpretar e fazer funcionar os programas.
+JavaScript é uma linguagem desenvolvida para rodar no lado do cliente, isto é, a interpretação e o funcionamento da linguagem dependem de funcionalidades hospedadas no navegador do usuário. Isso é possível que exista um interpretador JavaScript hospedado no navegador. 
+Tanto a Netscape como a Microsoft desenvolveram interpretadores Java Script para serem hospedados no servidor, tornando possível rodar JavaScript no lado do servidor. Esses interpretadores foram disponibilizados para uso público e podem ser usados pelos desenvolvedores para serem embutidos em aplicações gerais.
+Em tese, precisamos apenas de um navegador para fazer funcionar scripts desenvolvidos com a linguagem JavaScript. A linguagem JavaScript é orientada a objetos. Para os leitores novatos em programação, uma linguagem orientada a objetos utiliza objetos para agrupar propriedades e métodos inter-relacionados.
+Segundo Sanders Kaufman, o Java Script e as linguagens orientadas a objetos em geral têm sua força nas áreas de organização e manutenção do código. As desvantagens das linguagens orientadas a objetos é o fato de terem uma curva de aprendizado mais trabalhoso do que as linguagens proceduais. O projeto e a manutenção são os detalhes que recomendam o Java Script para os programadores Web.
+Referencia: Livro Aprenda em 21 dias programação ActiveX/Sanders Kaufman – Rio de Janeiro: Campus, 1997.
+
+1.2 Funcionalidades gerais da JavaScript
+1.2.1 Manipular conteúdo e apresentação 
+Com JavaScript, podemos escrever marcação HTML e inseri-la na marcação de um documento existente. Por exemplo: inserção de data/hora no documento, inserção de uma mensagem de boas-vindas ou, ainda, inserção de conteúdos diferenciados e escolhidos de acordo com o navegador do usuário. Podemos, até mesmo, gerar o HTML completo de uma página web. 
+Na verdade, esse poder da JavaScript em gerar marcação HTML foi um dos fatores responsáveis pela má fama da linguagem. Desenvolvedores, maravilhados com as possibilidades dessa linguagem, começaram a gerar, indiscriminadamente, HTML, tornando os conteúdos completamente inacessíveis. Antigamente, tal prática era comum, aceitável e amplamente empregada, porém com a chegada dos Padrões Web, não é admissível gerar HTML com JavaScript. É preciso uma análise criteriosa para determinar que HTML possa ou não ser gerado com Java Script.
+JavaScript é capaz de definir, alterar e controlar de forma dinâmica a apresentação de um documento HTML, como os aspectos relacionados à cor de fundo, de textos e de links, ou mesmo interferir no posicionamento dos elementos HTML de um documento. É possível manipular a folha de estilos associada ao documento criando novas regras CSS ou anulando regras existentes. 
+Segundo Maurício Samy Silva referencia que o uso em conformidade com os Padrões Web implica, entre outras práticas que, na ausência de um interpretador  JavaScript , não se comprometa o acesso ao conteúdo. 
+Referencia: Silva, Maurício Samy  JavaScript : guia do programador / Maurício Samy Silva. -- São Paulo : Novatec Editora, 2010.  Bibliografia: ISBN 978-85-7522-248-5 
+
+
+1.2.2 Interagir com formulários
+JavaScript é capaz de acessar os campos e valores digitados em um formulário HTML e proceder à validação dos dados, realizar cálculos e fornecer dicas de preenchimento dos campos.
+1.2.3 Interagir com outras linguagens dinâmicas
+JavaScript pode ser usada em conjunto com outras linguagens para cumprir tarefas  complementares relacionadas ao fluxo da programação. 
+Segundo a consultoria Redmonk que divulgou seu tradicional ranking de linguagens de programação e marcação. Com edições publicadas desde 2010, a lista levou em conta mais uma vez para concluir que o JavaScript continua no topo.
+Referencia: http://info.abril.com.br/noticias/it-solutions/2015/01/javascript-e-java-sao-as-linguagens-mais-populares-em-ranking-da-redmonk.shtml
+
+1.3 JavaScript em conformidade com os Padrões Web
+O conceito de desenvolvimento em conformidade com os Padrões Web trouxe como consequência imediata para a linguagem JavaScript a necessidade de se rever os seus critérios de uso. Daí surgiram dois princípios básicos que norteiam seu uso: o princípio de Javascript não obstrutivo e o da melhoria progressiva.
+Não há uma clara divisão entre eles, na verdade se completam e são interdependentes.
+Escrever JavaScript não obstrutivo implica:
+1.3.1	Que o conteúdo da página deve estar presente e funcional, ainda que se perca em usabilidade, caso o usuário esteja visualizando o documento em um dispositivo sem suporte para JavaScript.
+Este primeiro conceito traz a grande novidade e separa definitivamente os princípios de uso da JavaScript à maneira ultrapassada e à maneira moderna, em conformidade com os Padrões Web.
+Até o advento dos Padrões Web, a premissa em vigor era a de que JavaScript e acessibilidade eram incompatíveis. Não havia como se pensar em desenvolvimento JavaScript contemplando a acessibilidade. Se desabilitarmos JavaScript em nosso navegador e passarmos algum tempo navegando por sites na Web, certamente teremos uma boa ideia da incompatibilidade de JavaScript mal desenvolvido com acessibilidade. Assim, não é exagero afirmar que o primeiro conceito da listagem anterior revolucionou a forma de escrever JavaScript.
+1.3.2	Usar a linguagem com vistas à unicamente incrementar a usabilidade da página.
+O segundo conceito agrega um valor eminentemente prático à linguagem, acabando definitivamente com a prática de criar scripts voltados unicamente a acrescentar efeitos espetaculares na pagina, mas sem qualquer utilidade, como figuras acompanhando o cursor, objetos voando pela pagina, luzes piscando  e efeitos tão próprios do desenvolvimento em anos passados.
+1.3.3	Escrever scripts em arquivos externos para serem linkados ao documento e não inserir script na marcação HTML.
+O terceiro conceito alinha-se com o moderno conceito de separação de camadas de desenvolvimento. JavaScript deve ser mantido na camada de comportamento, não invadindo a camada de estruturação do conteúdo (marcação HTML) nem a camada de apresentação (CSS).
+1.4	Camadas de desenvolvimento
+Com a chegada dos Padrões Web, o conceito de desenvolvimento em camadas tornou-se um importante ponto a ser considerado na construção de aplicações Web.
+Tal conceito preconiza a separação dos códigos de desenvolvimento em três camadas separadas: a camada de estruturação de conteúdos constituída pela marcação HTML, a camada de apresentação constituída pelas folhas de estilos e a camada de comportamento constituída pelos scripts que determinam comportamentos como scripts desenvolvidos com JavaScript.
+Desenvolver segundo o princípio da separação das camadas de desenvolvimento implica escrever os códigos específicos de cada camada em arquivos separados e estabelecer a conexão entre eles com o uso de links. As principais vantagens de adotar a prática de separação das camadas são:
+Elimina a necessidade de repetição de códigos em diferentes páginas;
+•	Facilita o reaproveitamento de trechos de códigos em outros projetos;
+•	Facilita a busca e correção de eventuais bugs nos códigos;
+•	Facilita a manutenção e o entendimento dos códigos.
+Outro conceito intimamente relacionado ao princípio de separação das camadas de desenvolvimento é o moderno conceito, introduzido com a chegada dos Padrões Web, conhecido como “melhoria progressiva” (progressive enhancement). Segundo esse princípio, o desenvolvimento de uma página Web deve ser feito em três etapas:
+Na primeira etapa, estruturar os conteúdos usando a linguagem HTML. Ao final dessa etapa, todos os conteúdos devem estar disponíveis para qualquer visitante que esteja utilizando qualquer dispositivo de usuário.  Na segunda etapa, incrementar a apresentação da página com o uso das CSS. Essa etapa visa a melhorar a experiência dos usuários aptos a visualizar folhas de estilos.
+Finalmente, na terceira etapa, introduzir JavaScript com a finalidade de acrescentar interatividade à página, melhorando ainda mais a experiência do usuário.
+Referencia:  Silva, Maurício Samy   JavaScript : guia do programador / Maurício Samy Silva. -- São Paulo : Novatec Editora, 2010.  Bibliografia. ISBN 978-85-7522-248-5
+1.5	Versões do JavaScript
+A linguagem Javascript foi avançando durante seus anos de vida e incrementando suas capacidades. A princípio podia realizar muitas coisas na página web, mas tinha poucas instruções para criar. É apropriado introduzir as distintas versões de JavaScript que existem e que evolucionaram em conjunto com as versões de navegadores. Com o tempo também o HTML foi avançando e foram criadas novas características como as camadas, que permitem tratar e planificar os documentos de maneira distinta. JavaScript também avançou e para manejar todas estas novas características foram criadas novas instruções e recursos. Segundo o artigo Criar Web segue as distintas versões de JavaScript: 
+•	Javascript 1: nasceu com o Netscape 2.0 e suportava grande quantidade de instruções e funções, quase todas as que existem agora já se introduziram no primeiro padrão. 
+•	Javascript 1.1: É a versão de Javascript que foi desenhado com a chegada dos navegadores 3.0. Implementava pouco mais que sua versão anterior, como por exemplo, o tratamento de imagens dinamicamente e a criação de arrays. 
+•	Javascript 1.2: A versão dos navegadores 4.0. Esta tem como desvantagem que é um pouco distinta em plataformas Microsoft e Netscape, já que ambos navegadores cresceram de distinto modo e estavam em plena luta no mercado. 
+•	Javascript 1.3: Versão que implementam os navegadores 5.0. Nesta versão foram limitadas algumas diferenças e asperezas entre os dois navegadores. 
+•	Javascript 1.5: Versão atual, no momento de escrever estas linhas, que implementa Netscape 6. 
+•	Por este lado, Microsoft também foi evoluindo até apresentar sua versão 5.5 de JScript (assim chamam ao javascript utilizado pelos navegadores de Microsoft).
+Artigo: http://www.criarweb.com/artigos/168.php
+
+1.6	Variáveis em JavaScript
+
+Em Javascript utilizamos a palavra var para dar escopo a uma variável, tal escopo pode ser local ou global.
+Uma variável local pode ser acessada apenas pela função na qual ela foi criada, uma variável global pode ser acessada em qualquer parte do seu arquivo Javascript, incluindo outros arquivos e bibliotecas que pode ser utilizada no futuro.
+
+1
+2	/* Variável local */
+var minhaMensagem = "Oi";
+1
+2	/* Variável Global*/
+minhaMensagem = "Oi";
+
+Não é incorreto utilizar variáveis globais (sem a palavra var), contudo, como elas podem ser acessadas em quase todas as partes arquivo, não é recomendável que seja utilizado. Isso pode gerar conflitos com outras bibliotecas e/ou próprios arquivos Javascript que pode ser adicionado posteriormente.
+Isso acontece porque pode precisar utilizar o nome da variável para salvar algo que seja necessário para o código, porém, se alguma outra biblioteca, ou outra função criada, modificar o valor daquela variável acidentalmente o código terá problemas.
+Para resumir, sempre utilize a palavra "var" antes do nome das variáveis
+1	
+var numeroUm = 1; // O número um :)
+
+1.6.1	Nomenclatura de variáveis em Javascript
+
+Os nomes das variáveis em Javascript são bastante flexíveis. Eles podem conter letras, números, sublinhados e cifrões:
+
+1
+2
+3
+4	var _variavel_1 = 'Oi'; // Começa com sublinhado "_"
+var variavel_1 = 'Oi'; // Começa com a letra "v"
+var Variável_1 = 'Oi'; // Começa com uma letra maiúscula "V"
+var $Variavel_1 = 'Oi'; // Começa com um cifrão "$"
+A regra aqui é que uma variável só pode começar com um caractere, um cifrão ou um sublinhado, mas nunca com um número:
+1
+2	/* Incorreto */
+var 1variavel = 'Oi'; // Começa com "1" e gera um erro
+No entanto, é só no primeiro caractere, depois dele você pode utilizar o que quiser (letras, números, sublinhados ou cifrões):
+1
+2	/* Exemplo de nome de variável estranho */
+var atenção_variável_com_acento = 'Oi';
+O nome da variável acima contém acentos, cedilha e sublinhados e, por incrível que pareça, está correto por não iniciar com um caractere inválido (um número, por exemplo).
+Observação: Por questões de boas práticas de desenvolvimento, não utilize caracteres especiais (como palavras acentuadas) em variáveis. Está correto mas não é recomendável, portanto, tente utilizar apenas letras (sem acento), números e sublinhados. Além disso, tente selecionar um nome que descreva exatamente o valor da sua variável, por exemplo:
+
+1
+2	// Taxa de juros
+var taxaDeJuros = 10;
+
+1.6.2 Variáveis são Case Sensitive
+
+Isso quer dizer que o Javascript faz distinção entre letras maiúsculas e minúsculas, ou seja:
+
+1	meuNome = 'Luiz';
+É completamente diferente de:
+1	meunome = 'Luiz';
+Neste caso são duas variáveis diferentes, mesmo que tenham o mesmo valor.
+
+1.7	Tipos de dados e variáveis em Javascript
+
+Os tipos de dados que uma variável carrega é simplesmente o método de interpretação que o motor Javascript do navegador utilizou para detectar o tipo de tal valor. Por Javascript ser uma linguagem de tipagem dinâmica, dependendo do contexto é possível que uma mesma variável tenha diferentes tipos de dados para um mesmo valor. Por exemplo:
+
+1
+2
+3
+4
+5	var a = 1; // Valor numérico 1
+var b = 2; // Valor numérico 2
+ 
+// Gera um alerta da soma entre a + b
+alert( a + b );
+No trecho acima, o tipo de dado para a variável a e b são claramente valores numéricos (1 e 2), portanto, ao chamar a função "alert" (que gera um alerta) com o valor de a (1) somado (+) ao valor de b (2), teremos um resultado 3 ( 1 + 2 = 3 ). Porém, a função abaixo muda o contexto e consequentemente o tipo do valor de a de numérico para string.
+1
+2
+3
+4
+5
+6
+7	var a = 1; // Valor numérico 1
+ 
+// Concatenação entre a e c
+var c = "O valor de a é: " + a; 
+ 
+// Exibe um alerta com o valor de c
+alert( c );
+Criamos uma nova variável c do tipo "string" (que pode conter quase qualquer caractere) e tentamos somar seu valor com o valor de a. Como o valor de c não é um valor numérico e sim uma string, não existe a possibilidade de soma, portanto, o motor Javascript do navegador não faz tal soma, mas sim a concatenação dos valores (junta os valores), resultando em: O valor de a é: 1. Ou seja, o valor de a, mesmo sendo numérico, também foi tratado como uma string pelo contexto em que foi aplicado.
+Os tipos de dados de uma variável Javascript podem ser:
+•	String: quase qualquer valor entre aspas simples ou aspas duplas;
+•	Numérico: números;
+•	Booleano: true (verdadeiro) ou false (falso).
+Referencia: http://www.tutsup.com/2014/04/15/variaveis-em-javascript/
+
+1.8 Operadores JavaScript
+Em Javascript existem vários tipos de operadores, como os lógicos, aritméticos, de strings, de atribuição, unários, de comparação, bit a bit, além de alguns outros. Cada um desses operadores pode ser utilizado tanto com valores explícitos como com variáveis (até funções e objetos), para somar, subtrair, comparar e milhares de outras funções que vão dar lógica e fluxo à sua aplicação.
+
+O primeiro operador no exemplo, foi o sinal de igual (=), um operador de atribuição:
+
+1	var cadeMeuValor = "Estou Aqui";
+Este operador funciona assim: o item da esquerda recebe o valor da direita por atribuição.
+1
+2
+3
+4
+5	var minhaString = "Uma string";
+var outraVariável = minhaString;
+var ambosOsValores = outraVariável + ' uma string';
+var umaFunção = func();
+var umArray = new Array();
+1.8.1 Operadores aritméticos
+
+Em Javascript, pode criar qualquer tipo de conta os operadores aritméticos + (sinal de mais), - (sinal de menos), / (sinal de divisão), * (sinal de multiplicação) e % (o resto da divisão). Exemplo:
+1
+2
+3
+4	var resultado = 1 + 1; // 2
+var a = 2;
+var b = 4;
+var c = a * b; // 8
+Além disso,  pode fazer várias contas em uma mesma linha. Por exemplo:
+1	var d = e + f + g;
+Porém, os operadores de multiplicação (*), divisão (/) e resto da divisão (%) têm precedência sobre os operadores de adição (+) e subtração (-), exemplo:
+1	var c = 3 + 2 / 2 - 1;
+1.8.2 Concatenação
+
+A exceção à regra é que quando utilizamos o operador de adição (+) entre uma string e um valor numérico. Neste caso temos uma concatenação (junção) dos valores, exemplo:
+
+1	var c = 'a' + 2; // Agora o valor será a2
+Concatenação é bastante útil em Javascript, veja um exemplo útil para unir o valor de várias variáveis:
+1
+2
+3
+4
+5
+6	var a = 'Meu ';
+var b = 'nome ';
+var c = a + b + 'é Luiz.';
+ 
+// Resultado de c: Meu nome é Luiz
+alert( c );
+1.8.3 Operadores unários
+
+Os operadores unários são operadores que podem ser de incremento, decremento e valores negativos:
+++ *dois sinais de adição) Incrementa 1 ao operando
+– (dois sinais de subtração) Diminui 1 do operando
+- (um sinal de subtração) Representa um valor negativo
+Veja alguns exemplos
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11	// Atribui o valor 1
+var a = 1;
+ 
+// Transforma a (1) em negativo (-1)
+var b = -a;
+ 
+// Incrementa 1 ao valor de a (-1)
+b++;
+ 
+// Resultado é 0
+alert( b );
+1.8.4 Operador de atribuição + Operador aritmético
+
+Pode juntar o operador de atribuição com um dos operadores aritméticos, por exemplo:
+
+1
+2
+3
+4
+5
+6	var a = 2;
+ 
+a += 1; // 3
+a *= 2; // 6
+a /= 1; // 6
+a -= 1; // 5
+Referencia: http://www.tutsup.com/2014/04/16/operadores-em-javascript/
+
+
+1.9	Objetos e Funções
+Os objetos possibilitam criar estruturas que contêm propriedades que podem ser de qualquer tipo - inclusive objetos. E embora números, Booleanos e strings não sejam objetos, eles podem acabar se comportando como tal.
+Portanto, é possível acessar as propriedades desses tipos usando a notação do até mesmo quando eles não possuem quaisquer propriedades. Isso converte o número em um objeto do tipo "Number" e a propriedade desse objeto é acessada. O mesmo acontece para strings, que são convertidos para o objeto do tipo "String", e booleanos, que são convertidos para objetos "Booleanos". 
+
+1.9.1 Criando um objeto 
+
+Assim como as variáveis, há inúmeras formas de se criar um objeto em JavaScript. Uma das maneiras mais comuns, no entanto, é a literal: 
+ 
+
+Para começar a declaração literal de um objeto, basta abrir uma chave. Dentro dela, tudo o que é preciso fazer é criar os pares chave-valor separados por dois pontos. Para adicionar novos pares, basta adicionar uma vírgula entre eles e pronto. É possível usar qualquer valor, inclusive outros objetos como neste exemplo: 
+
+ 
+
+Segundo Sergio Oliveira do Canal Tech, afirma que toda linguagem de programação possui tipos primitivos que vêm embutidos em sua estrutura.
+Referencia: http://canaltech.com.br/materia/programacao/Fundamentos-do-JavaScript-entendendo-e-trabalhando-com-objetos/
+
+1.9.2 Funções em JavaScript
+Funções são usadas para criar pequenos trechos de códigos separados do script principal. Esses trechos de códigos podem gerar um resultado (o que chamamos de funções com retorno) ou apenas executar uma rotina (funções sem retorno).
+Funções também são úteis para serem facilmente chamadas em eventos como clique do mouse ou submeter um formulário.
+Toda função deve ter um nome e possuir um delimitador de parâmetro que são identificados com parênteses.
+
+1.9.2.1 Funções sem Retorno
+Para criar funções em JavaScript usamos a palavra-chave function, então, damos um nome para esta função. Essas primeiras funções será simples e não terão parâmetros. Portanto, a regra geral é:
+function nomeDaFuncao ( parâmetros ) { código da função }
+
+Funções sem retorno são ideais para criar pequenos trechos de script que serão repetidos várias vezes durante o código.
+Por exemplo, a função abaixo irá mostrar na tela a mensagem Bem vindo ao JavaScript.
+1.<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+2.function ola () {
+3.document.write ("Bem vindo ao JavaScript<br>");
+4.}
+5.</SCRIPT>
+1.9.2.2 Funções com Retorno
+Funções com retorno são criadas da mesma forma das funções sem retorno. Sua diferença principal é que esta função devolve um resultado para o script. Por exemplo, pode-se gerar um resultado de uma soma e devolver este resultado para o script.
+Para que uma função retorne algum valor usamos a palavra reservada return.
+1.<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+2.function somar () {
+3.return 5+5;
+4.}    
+5. 
+6.document.write ("A soma de 5 + 5 é " + somar() );
+7.</SCRIPT>
+1.9.2.3 Funções com Parâmetros ou Argumentos
+Muitas vezes, funções devem receber dados para processá-los. A inserção de dados na função é dada por meio dos parâmetros ou argumentos da função.
+Uma função pode ter quantos parâmetros forem necessários desde que cada um seja separado por vírgula e não tenha a mesma denominação.
+Abaixo está um exemplo com uma função com retorno e outra sem retorno usando parâmetros.
+Visualizar Codigo Fonte
+Imprimir?
+01.<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+02.function mostrar (mensagem){
+03.document.write (mensagem+"<br>");
+04.}
+05. 
+06.function somar (x, y){
+07.return x+y;
+08.}
+09. 
+10.var resultado;
+11.mostrar ("A soma de 50 + 50 é");
+12.resultado = somar (50, 50);
+13.mostrar (resultado);
+14.</SCRIPT>
+Referencia: http://www.tiexpert.net/programacao/web/javascript/funcoes.php
+
+
+
+
+
+
+
+2. Quais vantagens e desvantagens de utlilizar o D3.js
+2.1 Vantagem
+A biblioteca D3 possui uma grande vantagem em padrões web, conseguindo extrair todo o potencial dos navegadores, sem a necessidade de utilização de um software proprietário. Dessa maneira, D3 combina poderosos componentes de visualização e uma abordagem orientada a dados. Seu potencial é quase tão grande quanto a geometria propriamente dita, permitindo a criação de bolhas, diagramas Chord, Treemaps, links de nós e várias outras visualizações complexas.
+Uma outra vantagem do D3 é que a maioria das suas criações está aberta e pode ser reutilizada por outros desenvolvedores.
+A biblioteca D3 dá suporte aos navegadores modernos (o que geralmente significa qualquer coisa exceto Internet Explores 8 e abaixo dele). Já foram feitos testes com Firefox, Chrome (Chromiun), Safari (Webkit), Opera e Internet Explorer 9. Para compatibilidade com o IE8, é recomendada a biblioteca Aight.
+
+Referencia: http://homepages.dcc.ufmg.br/~yussif/visdados/visbdgeod3js/d3js.html
+
+2.2 Desvantagem

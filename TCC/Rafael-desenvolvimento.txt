@@ -1,0 +1,84 @@
+TENDÊNCIAS PARA 2015 BIG DATA INTERNET DAS COISAS
+
+De acordo no artigo publicado no portal terra com a opinião de Hu Yoshida, as principais tendências da TI para 2015 incluem Big Data e Internet das Coisas que são as tendências que ajudam a sustentar a Business Defined IT(Négócio Definido TI).
+ O Internet Data Center(IDC) previu que o big data irá crescer a uma taxa de 27% CAGR até a cifra de 32,4 bilhões de dólares até 2017, mais ou menos em vezes a taxa de crescimento geral do mercado de tecnologia da informação e a comunicação. Outros analistas, como Wikibon, estão ainda mais otimistas, prevendo receitas de 53,4 bilhões de dólares até 2017, á medida que novos negócios comecem a amealhar os benefícios reais da analítica do Big Data.
+Em 2015, continuaremos a ver um crescimento  sólido de ferramentas de analítica do Big Data tais como a SAP HANA e Hadoop, que são capazes de compilar resultados em questão de minutos ou horas em vez de dias. Plataformas preconfiguradas convergentes e hiperconvergentes irão acelerar a implementação das aplicações de Big Data.
+Enquanto o Big Data de hoje em dia tem a ver mais com dados de negócios unidos ás opiniões nas redes sociais, o Big Data de amanhã terá mais a ver com a Internet das Coisas (IoT), potencializando a comunicação entre máquinas, o que terá um impacto maior em nossas vidas.
+A Internet das Coisas irá auxiliar na solução de problemas como pegada de carbon, transporte, energia, cidades inteligentes, segurança pública, ciências da vida, baseada na tecnologia da informação. O novo mundo da Internet das Coisas(IoT) irá criar uma explosão de novas informações que poderá  ser usada para criar um mundo melhor.
+Análises de lotes serão substituídas por análises de streaming de dados para proporcionar análise em tempo real de dados de sensores, e mais inteligência será incorporada em ingestores de borda. Aplicações construídas em torno da Internet das Coisas serão apresentadas por empresas especializadas em análise de sensores e verticais, como segurança e saúde. Em 2015, as empresas de TI entrarão em parcerias com empresas de infraestrutura social para concretizar o potencial de um mundo de Internet das Coisas(IoT).
+A Hitachi Data Systems já começou a caminhar nessa direção, fazendo parcerias com outras divisões da Hitachi. Por exemplo, a HDS é parceira da Clarion, uma empresa membro do Grupo Hitachi em um Provedor de Soluções de Informações In-vehicle. Esta colaboração trará aos motoristas, companhias de seguros e manufatura insights úteis que levarão a um desempenho e segurança automotivas aprimoradas, aumentando o valor em todo o mercado crescente que atende a carros conectados.
+
+ARQUIVOS EM NUVEM  OU COMPUTAÇÃO EM NUVEM(CLOUD COMPUTING)
+Segundo o artigo publicado no portal Oficial da Net por Nícolas Müller a tendência do momento é o termo “computação nas  nuvens” ou “cloud computing” (em inglês). Este termo surgiu pelo fato de a computação estar mudando de rumo, hoje você não vê mais como antigamente aquela vontade imensa de comprar.
+Como sabemos, a grande tendência do momento é a “computação em nuvem”, originada do termo em inglês, “cloud computing”. Este termo surgiu em virtude da nova situação do homem moderno, antigamente era necessário um super e grande computador para desenvolver do trabalho mias fácil, ao mais complexo, hoje, o que as pessoas estão realmente em busca é de mobilidade, portabilidade e isso, com a chegada de vários aparelhos, como smartphones, tablets e netbooks, já é possível.
+A computação na nuvem veio para ficar, oferece comodidade aso seus usuários, como também praticidade e independência de um aparelho visto como “grande”.
+Deste modo, os super computadores serão usados somente por aqueles que realmente os precisam, o que não é o caso da maioria das pessoas. O mundo está informatizado e conectado, a atenção está voltada ao que há de mais prático e veloz. Com a computação em nuvem, tudo isso é possível : versatilidade, segurança, rapidez, disponibilidade e muito mais.
+Os usuários têm a possibilidade de acessar os seus arquivos pessoais de qualquer lugar e também com qualquer instrumento que tenha internet, não é mias necessário arquivar fotos, músicas, documentos e até ferramentas em objetos físicos, como CDs, pendrives, entre outros; agora tudo acontece em tempo real é só acessar e pronto, seus mais variados arquivos estão salvos “na nuvem”.
+O PREÇO DOS COMPUTADORES FOI INFLUENCIADO?
+Os computadores estão de fato mais baratos, muito se deve ao fato da computação nas nuvens, computadores desktop hoje estão custando em torno de R$ 780,00 reais a R$ 2.500,00 reais, preço que nem se cogitava quando esta material primeiramente foi publicada. Os computadores portáteis também tiveram uma queda considerável no preço com o passer do tempo. Os smartphones também tem influência.
+Se você pensar em nuvem, seus arquivos podem ser acessados no seu desktop, seu notebook, seu computador no trabalho e inclusive em seu celular, a interconectividade dos aparelhos se dá muito por poder manter seus arquivos em um único local.
+A queda do preços não foi somente influenciada pela computação em nuvens, a tendência do mercado é cada vez mais baixarem os preços, pois há muita produção nas fábricas de aparelhos.
+OS SISTEMAS OPERACIONAIS 
+Com esta nova tendência no mundo tecnológico, quem ganhará força será o sistema operacional LINUX, pois com a pouca necessidade de recursos, a maior sendo um browser, fará com que grandes empresas como Microsoft comecem a ter preocupações quanto a seu futuro. Há grande necessidade de se estar conectado fará com que softwares como sistemas operacionais e outros tendam a migrar para a internet, tornando o “desktop” de sua máquina online, e assim os sistemas que estarão rodando nas máquinas sejam apenas para suportar seu browser.
+Para tanto, como já vimos, outros sistemas operacionais surgiram com a chegada dos tablets e smartphones, como o Android do Google, o iOS da Apple, e o Windows Phone da Microsoft.
+QUEM JÁ ESTÁ NA FRENTE?
+Atualmente, fica difícil identificar a companhia que está na frente, como sabemos, a cada dia surgem diferentes ferramentas e a implantação de novos artifícios para facilitar a vida dos usuários, para tanto, como destaque no meio não podemos deixar de citar o Google, a Microsoft, IBW e a Amazon, que foram as pioneiras no ramo.
+AS VANTAGENS DO MODELO CLOUD?
+Todas estas tecnologias que vêm emergindo e amadurecendo foram empacotadas no conceito que levou o nome de cloud computing. “Em alguns anos não vamos chamar isso de cloud computing. Não terá nome. Será simplesmente computação”, defende Luis Sena, gerente de marketing de serviços da HP Brasil.
+A rede de varejo Amazon.com foi uma das pioneiras em entender e aplicar isto a seu favor. Para suportar a demanda das datas de pico em vendas - como o Natal - a loja online teve que investir em um poderoso parque de hardware. No entanto, fora das datas críticas, grande parte dos recursos ficava ociosa. Desde 2002, a companhia vem experimentando com o “aluguel” desta capacidade. Em 2006, a empresa lançou dois serviços abertos ao público que a colocaram à frente na corrida do cloud computing: o Simple Storage Solution (S3), que permite ao usuário comprar espaço para armazenar arquivos online; e o Elastic Compute Cloud (EC2), que permite utilizar máquinas virtuais completas.
+Os serviços não são apenas uma saída para o problema da Amazon, mas também uma oportunidade para as empresas começarem um negócio sem ter de investir na compra de equipamentos e com a flexibilidade de aumentar os recursos conforme for necessário. Este exemplo revela outra vantagem do cloud computing: a flexibilidade. Se você precisa de mais processamento, você pode fazer um upgrade imediato de capacidade, sem precisar trocar componentes ou até equipamentos inteiros para isto. O mesmo vale para armazenamento ou até mesmo upgrades de software.
+
+TIPOLOGIAS DO CLOUD COMPUTING?
+Atualmente, a computação em nuvem é dividida em seis tipos:
+
+IaaS - Infrastructure as a Service ou Infra-estrutura como Serviço: quando se utiliza uma porcentagem de um servidor, geralmente com configuração que se adeque à sua necessidade.
+PaaS - Plataform as a Service ou Plataforma como Serviço: utilizando-se apenas uma plataforma como um banco de dados, um web-service, etc. (p.ex.: Windows Azure).
+DaaS - Development as a Service ou Desenvolvimento como Serviço: as ferramentas de desenvolvimento tomam forma no cloud computing como ferramentas compartilhadas, ferramentas de desenvolvimento web-based e serviços baseados em mashup.
+SaaS - Software as a Service ou Software como Serviço: uso de um software em regime de utilização web (p.ex.: Google Docs, Microsoft SharePoint Online).
+CaaS - Communication as a Service ou Comunicação como Serviço: uso de uma solução de Comunicação Unificada hospedada em Data Center do provedor ou fabricante (p.ex.: Microsoft Lync).
+EaaS - Everything as a Service ou Tudo como Serviço: quando se utiliza tudo, infraestrutura, plataformas, software, suporte, enfim, o que envolve T.I.C. (Tecnologia da Informação e Comunicação) como um Serviço.
+
+CUSTO DA INTERNET
+A tendência no mundo, como também no Brasil, é que o valor da internet seja mais baixo para o consumidor final. Aqui no Brasil ainda nos deparamos com locais que não contam com acesso à rede mundial de computadores, para tanto, nos lugares que há, o valor e as ofertas estão cada vez mais atrativas aos usuários. 
+Vale lembrar que o Brasil está relativamente atrasado se comparado aos países de primeiro mundo em relação a internet. Nos países desenvolvidos a internet é mais veloz e mais barata que a nossa e ainda e praticamente todas as pessoas possuem acesso.
+
+NO BRASIL
+No Brasil, a tecnologia de computação em nuvem é muito recente, mas está se tornando madura muito rapidamente. Empresas de médio, pequeno e grande porte estão adotando a tecnologia gradativamente. O serviço começou a ser oferecido comercialmente em 2008 e em 2012 está ocorrendo uma grande adoção.
+A empresa Katri foi a primeira a desenvolver a tecnologia no Brasil, em 2002, batizando-a IUGU. Aplicada inicialmente no site de busca de pessoas físicas e jurídicas Fonelista. Durante o período em que esteve no ar, de 2002 a 2008, os usuários do site puderam comprovar a grande diferença de velocidade nas pesquisas proporcionada pelo processamento paralelo.
+Em 2009, a tecnologia evoluiu muito e sistemas funcionais desenvolvidos no início da década já passam de sua 3ª geração, incorporando funcionalidades e utilizando de tecnologias como "índices invertidos" (inverted index). A empresa Indústria Virtual lançou em 2009 a versão 2.0 do sistema WebCenter e está popularizando a utilização da computação em nuvem, trazendo ferramentas que facilitam a utilização desses novos recursos, tanto por empresas como por pessoas físicas. 
+No ambiente acadêmico o Laboratório de Redes e Gerência da UFSC foi um dos pioneiros a desenvolver pesquisas em Computação em Nuvem publicando artigos sobre segurança, IDS (Intrusion Detection Systems) e SLA (Service Level Agreement) para computação em nuvem. Além de implantar e gerenciar uma nuvem privada e computação em nuvem verde.
+RISCOS DO CLOUD COMPUTING
+1) Menos proteção à privacidade sob os olhos da lei
+Para obter as informações que você tiver armazenado nos servidores de terceiros na web, nos EUA eles só precisam de uma citação, o que é bem mais fácil de se conseguir. Este tipo de busca também pode ocorrer até mesmo sem o seu conhecimento.
+2)Frágeis sistemas de segurança são fáceis de invadir
+O governo ter acesso aos seus dados armazenados na nuvem provavelmente é uma preocupação muito menor do que um indivíduo qualquer ilegalmente ter este acesso. Em aplicativos colaborativos na web que são feitos para grupos as questões de segurança se relacionam com todos os envolvidos.
+3) Travamento de dados e controle de terceiros
+Quando você vive na nuvem, você está à mercê de uma empresa que pode tomar decisões sobre os seus dados e plataforma de maneiras nunca vistas antes na computação.
+4) Indisponibilidade do servidor e congelamento de conta Os servidores podem sair do ar, e quando você depende de um aplicativo na web para acessar algum arquivo ou e-mail. Tecnologias offline como o Google Gears, funcionalidades decentes de exportação e um bom sistema de backup podem aliviar esta questão em particular, mas nem todos os sistemas oferecem estes recursos.
+
+
+REFERENCIAS
+http://cio.com.br/opiniao/2014/12/29/tendencias-para-2015-big-data-internet-das-coisas-lagoas-de-dados-e-a-nuvem-hibrida/
+Tendências para 2015: Big Data, Internet das Coisas, Lagoas de Dados e a Nuvem Híbrida
+Publicado 29 de Dezembro de 2014
+Acessado: 03/04/2015
+
+http://www.oficinadanet.com.br/artigo/923/computacao_nas_nuvens
+O que é computação nas nuvens (cloud computing)?
+Publicado 07/05/2008- Atualizado : 23/08/2014
+Acesso : 03/04/2015
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+

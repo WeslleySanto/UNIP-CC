@@ -1,0 +1,25 @@
+MODELO DE DOCUMENTO OBJETIVO
+Segundo o consórcio internacional que trabalham para desenvolver padrões para a Web, 
+o Document Object Model é uma interface de plataforma e linguagem neutra que permitirá que programas e scripts para acessar e atualizar dinamicamente o conteúdo, estrutura e estilo de documentos. O original pode continuar a ser processados ​​e os resultados de processamento que podem ser incorporados para trás para dentro da página apresentada.
+
+CSS
+De acordo com o artigo escrito por Altieri Pereira, a linguagem de marcação surgiu para solucionar o problema de um cientista que queria uma forma de divulgar seus artigos na rede, para isso, ele criou  algo simples, restrito a comunidade científica e usado apenas para estrutura o conteúdo e exibir um texto de forma coerente. Mas a linguagem usada pelos cientistas acabou que se tornou padrão para Internet, e com o tempo, passou a ser mais testada. Todos queriam imagens, cores e designer avançado. E o HTML antigo não suportava isso, então foram adicionadas novas tags. Isso solucionou o problema por um tempo, mas começou a surgir outro grande problema. Com os novos recursos, designers e desenvolvedores de websites, abusavam da criatividade e enchiam suas paginas de fontes e estilos visuais, mas para alterar uma linha até que era mais simples, porem quando se queria mudar a cor de um link, por exemplo, e esse link estava em 300 paginas diferentes, era trabalho manual mesmo, um por um, tag por tag. Misturar estilo e estrutura não era mais interessante, e foi assim que em 1995, Håkon Wium Lie e Bert Bos apresentaram a proposta do CSS(Cascading Style Sheets) que logo foi apoiada pela W3C. A idéia geral era, utilizar HTML somente para estruturar o website e a tarefa de apresentação fica com o CSS disposto em um arquivo separado .css ou no proprio HTML demarcado pelas tags. Os conceitos de estilização com css em sua maioria ainda não são seguidos totalmente, devido a problemas de compatibilidade entre browsers e muitas vezes até falta de um conhecimento maior dos desenvolvedores, mas a W3C trabalha nos standards, que visam tornar o desenvolvimento padrão e tambem exigir dos navegadores uma interpretação adequada e compatível.
+
+D3JS
+A palavra D3, significa, Data-Driven Documents, juntando as três primeiras letras formam a sigla D3. Mas o que é D3? Segundo o site oficial da ferramenta, o D3.js é uma biblioteca JavaScript para manipulação de documentos com base em dados. Ajuda a trazer dados para a vida usando HTML, SVG e CSS. A ênfase em padrões web dá-lhe todas as capacidades de navegadores modernos sem amarrar-se com uma estrutura proprietária, combinando componentes de visualização poderosas e uma abordagem orientada a dados para manipulação DOM.
+Podemos associar dados a um Document Object Model (DOM), e, em seguida, aplicar transformações orientadas a dados para o documento. Por exemplo podemos usar para gerar uma tabela HTML a partir de uma matriz de números ou se preferirmos, podemos usar os mesmos dados para criar um gráfico de barras SVG interativa com transições suaves e interação.
+Ele é uma estrutura monolítica que busca oferecer todos os recursos possíveis. Em vez disso, D3 resolve o alguns dos problemas: eficiente manipulação de documentos com base em dados. Isso evita representação proprietária e oferece uma flexibilidade extraordinária, expondo todas as capacidades dos padrões web, como HTML, SVG e CSS. Com o mínimo de sobrecarga, D3 é extremamente rápido, suportando grandes conjuntos de dados e comportamentos dinâmicos de interação e animação. Estilo funcional do D3 permite a reutilização de código através de um conjunto diversificado de componentes e plugins.
+Não podemos dizer que ele é uma nova representação gráfica. Ao contrário de Processing, Raphaël, ou Protovis, o vocabulário das marcas vem diretamente de padrões web: HTML, SVG e CSS. Por exemplo, podemos criar elementos SVG usando D3 e estilos com folhas de estilo externas. Podemos usar efeitos de filtro compósitos, derrames tracejadas e recorte. Se os fabricantes de navegadores introduzir novas funcionalidades amanhã, seremos capaz de usá-los imediatamente, sem atualização de nenhuma ferramentas necessária. E, se no futuro decidirmos, para usar um conjunto de ferramentas que não D3, você podemos levar nossos conhecimentos aplicados.
+O melhor de tudo, D3 é fácil de depurar usando inspector elemento do navegador.
+
+
+
+REFERENCIAS
+http://www.w3.org/DOM/
+	Document Object Model (DOM)
+	January 19, 2005
+	Acessado: 03/04/2015
+
+http://www.devmedia.com.br/a-origem-do-css-um-pouco-da-historia/15195
+	Autor: Altieri Pereira
+	Acessado: 03/04/2015
