@@ -1,0 +1,27 @@
+html-exemplo
+https://robertopc.wordpress.com/2009/12/01/curso-html-aula-03-primeiras-tags-html-head-title-e-body/
+acesso: 30/05/2015
+===============
+gráfico.png
+http://bl.ocks.org/NPashaP/9994181
+acessado: 30/05/2015
+===============
+hexagonal binning
+http://bl.ocks.org/mbostock/4248145
+acessado: 30/05/2015
+===============
+eletric-generation
+url: http://energia.ningunaparte.net/en/
+acessado: 30/05/2015
+================
+pie-chart
+url: http://bl.ocks.org/mbostock/1346395
+acessado: 30/05/2015
+================
+radial-boxplot
+url: http://bl.ocks.org/davidwclin/ad5d13db260caeffe9b3
+acessado: 30/05/2015
+================
+buble-chart
+url: http://bl.ocks.org/mbostock/4063269
+acessado: 30/05/2015
